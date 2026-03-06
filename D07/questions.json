@@ -1,0 +1,220 @@
+[
+  {
+    "type": "TrueFalse",
+    "header": "Q1",
+    "body": "C# supports object-oriented programming.",
+    "marks": 5,
+    "correct": true
+  },
+  {
+    "type": "TrueFalse",
+    "header": "Q2",
+    "body": "A class can inherit from multiple classes in C#.",
+    "marks": 5,
+    "correct": false
+  },
+  {
+    "type": "TrueFalse",
+    "header": "Q3",
+    "body": "Interfaces can contain method implementations in modern C#.",
+    "marks": 5,
+    "correct": true
+  },
+  {
+    "type": "ChooseOne",
+    "header": "Q4",
+    "body": "Which keyword is used to inherit a class in C#?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "extends" },
+      { "id": 2, "text": ":" },
+      { "id": 3, "text": "inherits" },
+      { "id": 4, "text": "implements" }
+    ],
+    "correctIds": [2]
+  },
+  {
+    "type": "ChooseOne",
+    "header": "Q5",
+    "body": "Which collection guarantees unique elements?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "List<T>" },
+      { "id": 2, "text": "Dictionary<TKey, TValue>" },
+      { "id": 3, "text": "HashSet<T>" },
+      { "id": 4, "text": "Array" }
+    ],
+    "correctIds": [3]
+  },
+  {
+    "type": "ChooseOne",
+    "header": "Q6",
+    "body": "Which method converts JSON into objects?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "Serialize" },
+      { "id": 2, "text": "Deserialize" },
+      { "id": 3, "text": "Parse" },
+      { "id": 4, "text": "Convert" }
+    ],
+    "correctIds": [2]
+  },
+  {
+    "type": "ChooseOne",
+    "header": "Q7",
+    "body": "Which keyword prevents inheritance?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "static" },
+      { "id": 2, "text": "sealed" },
+      { "id": 3, "text": "private" },
+      { "id": 4, "text": "abstract" }
+    ],
+    "correctIds": [2]
+  },
+  {
+    "type": "ChooseAll",
+    "header": "Q8",
+    "body": "Which are OOP principles?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "Encapsulation" },
+      { "id": 2, "text": "Abstraction" },
+      { "id": 3, "text": "Compilation" },
+      { "id": 4, "text": "Polymorphism" }
+    ],
+    "correctIds": [1, 2, 4]
+  },
+  {
+    "type": "ChooseAll",
+    "header": "Q9",
+    "body": "Which are value types in C#?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "int" },
+      { "id": 2, "text": "string" },
+      { "id": 3, "text": "double" },
+      { "id": 4, "text": "class" }
+    ],
+    "correctIds": [1, 3]
+  },
+  {
+    "type": "ChooseAll",
+    "header": "Q10",
+    "body": "Which are access modifiers?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "public" },
+      { "id": 2, "text": "private" },
+      { "id": 3, "text": "internal" },
+      { "id": 4, "text": "global" }
+    ],
+    "correctIds": [1, 2, 3]
+  },
+  {
+    "type": "TrueFalse",
+    "header": "Q11",
+    "body": "LINQ is used for querying collections.",
+    "marks": 5,
+    "correct": true
+  },
+  {
+    "type": "TrueFalse",
+    "header": "Q12",
+    "body": "The 'var' keyword makes a variable dynamically typed.",
+    "marks": 5,
+    "correct": false
+  },
+  {
+    "type": "ChooseOne",
+    "header": "Q13",
+    "body": "Which class is used for file writing?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "StreamReader" },
+      { "id": 2, "text": "StreamWriter" },
+      { "id": 3, "text": "FileReader" },
+      { "id": 4, "text": "ConsoleWriter" }
+    ],
+    "correctIds": [2]
+  },
+  {
+    "type": "ChooseOne",
+    "header": "Q14",
+    "body": "Which keyword defines a constant?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "const" },
+      { "id": 2, "text": "readonly" },
+      { "id": 3, "text": "static" },
+      { "id": 4, "text": "fixed" }
+    ],
+    "correctIds": [1]
+  },
+  {
+    "type": "ChooseAll",
+    "header": "Q15",
+    "body": "Which are reference types?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "class" },
+      { "id": 2, "text": "string" },
+      { "id": 3, "text": "int" },
+      { "id": 4, "text": "object" }
+    ],
+    "correctIds": [1, 2, 4]
+  },
+  {
+    "type": "TrueFalse",
+    "header": "Q16",
+    "body": "Abstract classes can be instantiated directly.",
+    "marks": 5,
+    "correct": false
+  },
+  {
+    "type": "ChooseOne",
+    "header": "Q17",
+    "body": "Which operator checks equality?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "=" },
+      { "id": 2, "text": "==" },
+      { "id": 3, "text": "!=" },
+      { "id": 4, "text": "<>" }
+    ],
+    "correctIds": [2]
+  },
+  {
+    "type": "ChooseAll",
+    "header": "Q18",
+    "body": "Which are loop types in C#?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "for" },
+      { "id": 2, "text": "foreach" },
+      { "id": 3, "text": "while" },
+      { "id": 4, "text": "repeat" }
+    ],
+    "correctIds": [1, 2, 3]
+  },
+  {
+    "type": "TrueFalse",
+    "header": "Q19",
+    "body": "Dictionary<TKey, TValue> stores key-value pairs.",
+    "marks": 5,
+    "correct": true
+  },
+  {
+    "type": "ChooseOne",
+    "header": "Q20",
+    "body": "Which feature allows method overriding?",
+    "marks": 5,
+    "answers": [
+      { "id": 1, "text": "virtual" },
+      { "id": 2, "text": "static" },
+      { "id": 3, "text": "sealed" },
+      { "id": 4, "text": "const" }
+    ],
+    "correctIds": [1]
+  }
+]

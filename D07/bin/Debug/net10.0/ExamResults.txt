@@ -1,0 +1,173 @@
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Q: Which collection guarantees unique elements?
+Answer: 3. HashSet<T>
+Q: Dictionary<TKey, TValue> stores key-value pairs.
+Answer: 1. True
+Q: Which class is used for file writing?
+Answer: 2. StreamWriter
+Q: Which are loop types in C#?
+Answer: 1. for, 2. foreach, 3. while
+Q: A class can inherit from multiple classes in C#.
+Answer: 2. False
+Final Grade: 25/25
+Time: 3/5/2026 4:15:39 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 4:39:33 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 4:41:50 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 5:42:54 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 5:45:19 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 5:50:01 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 5:53:54 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 6:02:54 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 6:03:00 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 6:13:53 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 6:15:50 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 6:20:22 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 6:20:26 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 6:26:12 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 6:28:56 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Final Grade: 0/25
+Time: 3/5/2026 6:32:09 PM
+==================
+
+=== Exam Result ===
+Exam Type: Final
+Subject: OOP
+Q: Which are value types in C#?
+Answer: 1. int, 3. double
+Q: Which are OOP principles?
+Answer: 1. Encapsulation, 2. Abstraction, 4. Polymorphism
+Q: Which method converts JSON into objects?
+Answer: 2. Deserialize
+Q: Which operator checks equality?
+Answer: 2. ==
+Q: Which keyword is used to inherit a class in C#?
+Answer: 2. :
+Final Grade: 25/25
+Time: 3/6/2026 2:52:43 PM
+==================
+
+=== Exam Result ===
+Exam Type: Practice
+Subject: OOP
+Q: Which feature allows method overriding?
+Answer: 1. virtual
+Q: Which collection guarantees unique elements?
+Answer: 3. HashSet<T>
+Q: Which keyword defines a constant?
+Answer: 1. const
+Q: Which method converts JSON into objects?
+Answer: 2. Deserialize
+Q: C# supports object-oriented programming.
+Answer: 1. True
+Final Grade: 25/25
+Time: 3/6/2026 2:54:20 PM
+==================
+
+=== Exam Result ===
+Exam Type: Final
+Subject: OOP
+Q: C# supports object-oriented programming.
+Answer: 1. True
+Q: Which class is used for file writing?
+Answer: 2. StreamWriter
+Q: Which keyword defines a constant?
+Answer: 1. const
+Q: Which are access modifiers?
+Answer: 1. public, 2. private, 3. internal
+Q: Which are OOP principles?
+Answer: 1. Encapsulation, 2. Abstraction, 4. Polymorphism
+Final Grade: 25/25
+Time: 3/6/2026 3:15:13 PM
+==================
+

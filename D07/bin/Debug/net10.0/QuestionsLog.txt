@@ -1,0 +1,1780 @@
+=================================
+Question: Q14
+Which keyword defines a constant?
+Marks: 5
+
+Answers:
+   1. const
+   2. readonly
+   3. static
+   4. fixed
+
+Added: 3/4/2026 4:01:39 PM
+=================================
+
+=================================
+Question: Q12
+The 'var' keyword makes a variable dynamically typed.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/4/2026 4:01:39 PM
+=================================
+
+=================================
+Question: Q10
+Which are access modifiers?
+Marks: 5
+
+Answers:
+   1. public
+   2. private
+   3. internal
+   4. global
+
+Added: 3/4/2026 4:01:39 PM
+=================================
+
+=================================
+Question: Q5
+Which collection guarantees unique elements?
+Marks: 5
+
+Answers:
+   1. List<T>
+   2. Dictionary<TKey, TValue>
+   3. HashSet<T>
+   4. Array
+
+Added: 3/4/2026 4:01:39 PM
+=================================
+
+=================================
+Question: Q13
+Which class is used for file writing?
+Marks: 5
+
+Answers:
+   1. StreamReader
+   2. StreamWriter
+   3. FileReader
+   4. ConsoleWriter
+
+Added: 3/4/2026 4:01:39 PM
+=================================
+
+=================================
+Question: Q9
+Which are value types in C#?
+Marks: 5
+
+Answers:
+   1. int
+   2. string
+   3. double
+   4. class
+
+Added: 3/4/2026 4:02:33 PM
+=================================
+
+=================================
+Question: Q13
+Which class is used for file writing?
+Marks: 5
+
+Answers:
+   1. StreamReader
+   2. StreamWriter
+   3. FileReader
+   4. ConsoleWriter
+
+Added: 3/4/2026 4:02:33 PM
+=================================
+
+=================================
+Question: Q4
+Which keyword is used to inherit a class in C#?
+Marks: 5
+
+Answers:
+   1. extends
+   2. :
+   3. inherits
+   4. implements
+
+Added: 3/4/2026 4:02:33 PM
+=================================
+
+=================================
+Question: Q3
+Interfaces can contain method implementations in modern C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/4/2026 4:02:33 PM
+=================================
+
+=================================
+Question: Q11
+LINQ is used for querying collections.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/4/2026 4:02:33 PM
+=================================
+
+=================================
+Question: Q16
+Abstract classes can be instantiated directly.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/4/2026 10:23:15 PM
+=================================
+
+=================================
+Question: Q14
+Which keyword defines a constant?
+Marks: 5
+
+Answers:
+   1. const
+   2. readonly
+   3. static
+   4. fixed
+
+Added: 3/4/2026 10:26:50 PM
+=================================
+
+=================================
+Question: Q19
+Dictionary<TKey, TValue> stores key-value pairs.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/4/2026 10:26:51 PM
+=================================
+
+=================================
+Question: Q13
+Which class is used for file writing?
+Marks: 5
+
+Answers:
+   1. StreamReader
+   2. StreamWriter
+   3. FileReader
+   4. ConsoleWriter
+
+Added: 3/4/2026 10:26:51 PM
+=================================
+
+=================================
+Question: Q14
+Which keyword defines a constant?
+Marks: 5
+
+Answers:
+   1. const
+   2. readonly
+   3. static
+   4. fixed
+
+Added: 3/4/2026 10:38:09 PM
+=================================
+
+=================================
+Question: Q6
+Which method converts JSON into objects?
+Marks: 5
+
+Answers:
+   1. Serialize
+   2. Deserialize
+   3. Parse
+   4. Convert
+
+Added: 3/4/2026 10:38:09 PM
+=================================
+
+=================================
+Question: Q19
+Dictionary<TKey, TValue> stores key-value pairs.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/4/2026 10:38:09 PM
+=================================
+
+=================================
+Question: Q20
+Which feature allows method overriding?
+Marks: 5
+
+Answers:
+   1. virtual
+   2. static
+   3. sealed
+   4. const
+
+Added: 3/4/2026 10:38:09 PM
+=================================
+
+=================================
+Question: Q8
+Which are OOP principles?
+Marks: 5
+
+Answers:
+   1. Encapsulation
+   2. Abstraction
+   3. Compilation
+   4. Polymorphism
+
+Added: 3/4/2026 10:38:09 PM
+=================================
+
+=================================
+Question: Q1
+C# supports object-oriented programming.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/4/2026 10:38:36 PM
+=================================
+
+=================================
+Question: Q2
+A class can inherit from multiple classes in C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/4/2026 10:38:36 PM
+=================================
+
+=================================
+Question: Q12
+The 'var' keyword makes a variable dynamically typed.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/4/2026 10:38:36 PM
+=================================
+
+=================================
+Question: Q11
+LINQ is used for querying collections.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/4/2026 10:38:36 PM
+=================================
+
+=================================
+Question: Q20
+Which feature allows method overriding?
+Marks: 5
+
+Answers:
+   1. virtual
+   2. static
+   3. sealed
+   4. const
+
+Added: 3/4/2026 10:38:36 PM
+=================================
+
+=================================
+Question: Q2
+A class can inherit from multiple classes in C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 1:41:50 PM
+=================================
+
+=================================
+Question: Q7
+Which keyword prevents inheritance?
+Marks: 5
+
+Answers:
+   1. static
+   2. sealed
+   3. private
+   4. abstract
+
+Added: 3/5/2026 1:41:50 PM
+=================================
+
+=================================
+Question: Q16
+Abstract classes can be instantiated directly.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 1:41:50 PM
+=================================
+
+=================================
+Question: Q4
+Which keyword is used to inherit a class in C#?
+Marks: 5
+
+Answers:
+   1. extends
+   2. :
+   3. inherits
+   4. implements
+
+Added: 3/5/2026 1:41:50 PM
+=================================
+
+=================================
+Question: Q3
+Interfaces can contain method implementations in modern C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 1:41:50 PM
+=================================
+
+=================================
+Question: Q5
+Which collection guarantees unique elements?
+Marks: 5
+
+Answers:
+   1. List<T>
+   2. Dictionary<TKey, TValue>
+   3. HashSet<T>
+   4. Array
+
+Added: 3/5/2026 4:15:11 PM
+=================================
+
+=================================
+Question: Q19
+Dictionary<TKey, TValue> stores key-value pairs.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 4:15:11 PM
+=================================
+
+=================================
+Question: Q13
+Which class is used for file writing?
+Marks: 5
+
+Answers:
+   1. StreamReader
+   2. StreamWriter
+   3. FileReader
+   4. ConsoleWriter
+
+Added: 3/5/2026 4:15:11 PM
+=================================
+
+=================================
+Question: Q18
+Which are loop types in C#?
+Marks: 5
+
+Answers:
+   1. for
+   2. foreach
+   3. while
+   4. repeat
+
+Added: 3/5/2026 4:15:11 PM
+=================================
+
+=================================
+Question: Q2
+A class can inherit from multiple classes in C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 4:15:11 PM
+=================================
+
+=================================
+Question: Q11
+LINQ is used for querying collections.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 4:38:31 PM
+=================================
+
+=================================
+Question: Q19
+Dictionary<TKey, TValue> stores key-value pairs.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 4:38:31 PM
+=================================
+
+=================================
+Question: Q3
+Interfaces can contain method implementations in modern C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 4:38:31 PM
+=================================
+
+=================================
+Question: Q15
+Which are reference types?
+Marks: 5
+
+Answers:
+   1. class
+   2. string
+   3. int
+   4. object
+
+Added: 3/5/2026 4:38:31 PM
+=================================
+
+=================================
+Question: Q8
+Which are OOP principles?
+Marks: 5
+
+Answers:
+   1. Encapsulation
+   2. Abstraction
+   3. Compilation
+   4. Polymorphism
+
+Added: 3/5/2026 4:38:31 PM
+=================================
+
+=================================
+Question: Q4
+Which keyword is used to inherit a class in C#?
+Marks: 5
+
+Answers:
+   1. extends
+   2. :
+   3. inherits
+   4. implements
+
+Added: 3/5/2026 4:40:49 PM
+=================================
+
+=================================
+Question: Q11
+LINQ is used for querying collections.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 4:40:49 PM
+=================================
+
+=================================
+Question: Q12
+The 'var' keyword makes a variable dynamically typed.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 4:40:49 PM
+=================================
+
+=================================
+Question: Q3
+Interfaces can contain method implementations in modern C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 4:40:49 PM
+=================================
+
+=================================
+Question: Q5
+Which collection guarantees unique elements?
+Marks: 5
+
+Answers:
+   1. List<T>
+   2. Dictionary<TKey, TValue>
+   3. HashSet<T>
+   4. Array
+
+Added: 3/5/2026 4:40:49 PM
+=================================
+
+=================================
+Question: Q19
+Dictionary<TKey, TValue> stores key-value pairs.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 5:41:14 PM
+=================================
+
+=================================
+Question: Q20
+Which feature allows method overriding?
+Marks: 5
+
+Answers:
+   1. virtual
+   2. static
+   3. sealed
+   4. const
+
+Added: 3/5/2026 5:41:14 PM
+=================================
+
+=================================
+Question: Q14
+Which keyword defines a constant?
+Marks: 5
+
+Answers:
+   1. const
+   2. readonly
+   3. static
+   4. fixed
+
+Added: 3/5/2026 5:41:14 PM
+=================================
+
+=================================
+Question: Q7
+Which keyword prevents inheritance?
+Marks: 5
+
+Answers:
+   1. static
+   2. sealed
+   3. private
+   4. abstract
+
+Added: 3/5/2026 5:41:14 PM
+=================================
+
+=================================
+Question: Q3
+Interfaces can contain method implementations in modern C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 5:41:14 PM
+=================================
+
+=================================
+Question: Q15
+Which are reference types?
+Marks: 5
+
+Answers:
+   1. class
+   2. string
+   3. int
+   4. object
+
+Added: 3/5/2026 5:41:31 PM
+=================================
+
+=================================
+Question: Q18
+Which are loop types in C#?
+Marks: 5
+
+Answers:
+   1. for
+   2. foreach
+   3. while
+   4. repeat
+
+Added: 3/5/2026 5:41:31 PM
+=================================
+
+=================================
+Question: Q9
+Which are value types in C#?
+Marks: 5
+
+Answers:
+   1. int
+   2. string
+   3. double
+   4. class
+
+Added: 3/5/2026 5:41:31 PM
+=================================
+
+=================================
+Question: Q6
+Which method converts JSON into objects?
+Marks: 5
+
+Answers:
+   1. Serialize
+   2. Deserialize
+   3. Parse
+   4. Convert
+
+Added: 3/5/2026 5:41:31 PM
+=================================
+
+=================================
+Question: Q12
+The 'var' keyword makes a variable dynamically typed.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 5:41:31 PM
+=================================
+
+=================================
+Question: Q14
+Which keyword defines a constant?
+Marks: 5
+
+Answers:
+   1. const
+   2. readonly
+   3. static
+   4. fixed
+
+Added: 3/5/2026 5:44:18 PM
+=================================
+
+=================================
+Question: Q18
+Which are loop types in C#?
+Marks: 5
+
+Answers:
+   1. for
+   2. foreach
+   3. while
+   4. repeat
+
+Added: 3/5/2026 5:44:18 PM
+=================================
+
+=================================
+Question: Q1
+C# supports object-oriented programming.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 5:44:18 PM
+=================================
+
+=================================
+Question: Q12
+The 'var' keyword makes a variable dynamically typed.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 5:44:18 PM
+=================================
+
+=================================
+Question: Q2
+A class can inherit from multiple classes in C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 5:44:18 PM
+=================================
+
+=================================
+Question: Q8
+Which are OOP principles?
+Marks: 5
+
+Answers:
+   1. Encapsulation
+   2. Abstraction
+   3. Compilation
+   4. Polymorphism
+
+Added: 3/5/2026 5:49:00 PM
+=================================
+
+=================================
+Question: Q6
+Which method converts JSON into objects?
+Marks: 5
+
+Answers:
+   1. Serialize
+   2. Deserialize
+   3. Parse
+   4. Convert
+
+Added: 3/5/2026 5:49:00 PM
+=================================
+
+=================================
+Question: Q9
+Which are value types in C#?
+Marks: 5
+
+Answers:
+   1. int
+   2. string
+   3. double
+   4. class
+
+Added: 3/5/2026 5:49:00 PM
+=================================
+
+=================================
+Question: Q4
+Which keyword is used to inherit a class in C#?
+Marks: 5
+
+Answers:
+   1. extends
+   2. :
+   3. inherits
+   4. implements
+
+Added: 3/5/2026 5:49:00 PM
+=================================
+
+=================================
+Question: Q5
+Which collection guarantees unique elements?
+Marks: 5
+
+Answers:
+   1. List<T>
+   2. Dictionary<TKey, TValue>
+   3. HashSet<T>
+   4. Array
+
+Added: 3/5/2026 5:49:00 PM
+=================================
+
+=================================
+Question: Q5
+Which collection guarantees unique elements?
+Marks: 5
+
+Answers:
+   1. List<T>
+   2. Dictionary<TKey, TValue>
+   3. HashSet<T>
+   4. Array
+
+Added: 3/5/2026 5:52:53 PM
+=================================
+
+=================================
+Question: Q12
+The 'var' keyword makes a variable dynamically typed.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 5:52:53 PM
+=================================
+
+=================================
+Question: Q18
+Which are loop types in C#?
+Marks: 5
+
+Answers:
+   1. for
+   2. foreach
+   3. while
+   4. repeat
+
+Added: 3/5/2026 5:52:53 PM
+=================================
+
+=================================
+Question: Q19
+Dictionary<TKey, TValue> stores key-value pairs.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 5:52:53 PM
+=================================
+
+=================================
+Question: Q7
+Which keyword prevents inheritance?
+Marks: 5
+
+Answers:
+   1. static
+   2. sealed
+   3. private
+   4. abstract
+
+Added: 3/5/2026 5:52:53 PM
+=================================
+
+=================================
+Question: Q15
+Which are reference types?
+Marks: 5
+
+Answers:
+   1. class
+   2. string
+   3. int
+   4. object
+
+Added: 3/5/2026 6:01:53 PM
+=================================
+
+=================================
+Question: Q16
+Abstract classes can be instantiated directly.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:01:53 PM
+=================================
+
+=================================
+Question: Q10
+Which are access modifiers?
+Marks: 5
+
+Answers:
+   1. public
+   2. private
+   3. internal
+   4. global
+
+Added: 3/5/2026 6:01:53 PM
+=================================
+
+=================================
+Question: Q8
+Which are OOP principles?
+Marks: 5
+
+Answers:
+   1. Encapsulation
+   2. Abstraction
+   3. Compilation
+   4. Polymorphism
+
+Added: 3/5/2026 6:01:53 PM
+=================================
+
+=================================
+Question: Q2
+A class can inherit from multiple classes in C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:01:53 PM
+=================================
+
+=================================
+Question: Q4
+Which keyword is used to inherit a class in C#?
+Marks: 5
+
+Answers:
+   1. extends
+   2. :
+   3. inherits
+   4. implements
+
+Added: 3/5/2026 6:12:51 PM
+=================================
+
+=================================
+Question: Q20
+Which feature allows method overriding?
+Marks: 5
+
+Answers:
+   1. virtual
+   2. static
+   3. sealed
+   4. const
+
+Added: 3/5/2026 6:12:51 PM
+=================================
+
+=================================
+Question: Q15
+Which are reference types?
+Marks: 5
+
+Answers:
+   1. class
+   2. string
+   3. int
+   4. object
+
+Added: 3/5/2026 6:12:51 PM
+=================================
+
+=================================
+Question: Q18
+Which are loop types in C#?
+Marks: 5
+
+Answers:
+   1. for
+   2. foreach
+   3. while
+   4. repeat
+
+Added: 3/5/2026 6:12:51 PM
+=================================
+
+=================================
+Question: Q13
+Which class is used for file writing?
+Marks: 5
+
+Answers:
+   1. StreamReader
+   2. StreamWriter
+   3. FileReader
+   4. ConsoleWriter
+
+Added: 3/5/2026 6:12:51 PM
+=================================
+
+=================================
+Question: Q2
+A class can inherit from multiple classes in C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:14:49 PM
+=================================
+
+=================================
+Question: Q4
+Which keyword is used to inherit a class in C#?
+Marks: 5
+
+Answers:
+   1. extends
+   2. :
+   3. inherits
+   4. implements
+
+Added: 3/5/2026 6:14:49 PM
+=================================
+
+=================================
+Question: Q17
+Which operator checks equality?
+Marks: 5
+
+Answers:
+   1. =
+   2. ==
+   3. !=
+   4. <>
+
+Added: 3/5/2026 6:14:49 PM
+=================================
+
+=================================
+Question: Q15
+Which are reference types?
+Marks: 5
+
+Answers:
+   1. class
+   2. string
+   3. int
+   4. object
+
+Added: 3/5/2026 6:14:49 PM
+=================================
+
+=================================
+Question: Q3
+Interfaces can contain method implementations in modern C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:14:49 PM
+=================================
+
+=================================
+Question: Q13
+Which class is used for file writing?
+Marks: 5
+
+Answers:
+   1. StreamReader
+   2. StreamWriter
+   3. FileReader
+   4. ConsoleWriter
+
+Added: 3/5/2026 6:19:21 PM
+=================================
+
+=================================
+Question: Q4
+Which keyword is used to inherit a class in C#?
+Marks: 5
+
+Answers:
+   1. extends
+   2. :
+   3. inherits
+   4. implements
+
+Added: 3/5/2026 6:19:21 PM
+=================================
+
+=================================
+Question: Q16
+Abstract classes can be instantiated directly.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:19:21 PM
+=================================
+
+=================================
+Question: Q14
+Which keyword defines a constant?
+Marks: 5
+
+Answers:
+   1. const
+   2. readonly
+   3. static
+   4. fixed
+
+Added: 3/5/2026 6:19:21 PM
+=================================
+
+=================================
+Question: Q3
+Interfaces can contain method implementations in modern C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:19:21 PM
+=================================
+
+=================================
+Question: Q7
+Which keyword prevents inheritance?
+Marks: 5
+
+Answers:
+   1. static
+   2. sealed
+   3. private
+   4. abstract
+
+Added: 3/5/2026 6:21:39 PM
+=================================
+
+=================================
+Question: Q20
+Which feature allows method overriding?
+Marks: 5
+
+Answers:
+   1. virtual
+   2. static
+   3. sealed
+   4. const
+
+Added: 3/5/2026 6:21:39 PM
+=================================
+
+=================================
+Question: Q6
+Which method converts JSON into objects?
+Marks: 5
+
+Answers:
+   1. Serialize
+   2. Deserialize
+   3. Parse
+   4. Convert
+
+Added: 3/5/2026 6:21:39 PM
+=================================
+
+=================================
+Question: Q16
+Abstract classes can be instantiated directly.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:21:39 PM
+=================================
+
+=================================
+Question: Q8
+Which are OOP principles?
+Marks: 5
+
+Answers:
+   1. Encapsulation
+   2. Abstraction
+   3. Compilation
+   4. Polymorphism
+
+Added: 3/5/2026 6:21:39 PM
+=================================
+
+=================================
+Question: Q16
+Abstract classes can be instantiated directly.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:25:05 PM
+=================================
+
+=================================
+Question: Q17
+Which operator checks equality?
+Marks: 5
+
+Answers:
+   1. =
+   2. ==
+   3. !=
+   4. <>
+
+Added: 3/5/2026 6:25:05 PM
+=================================
+
+=================================
+Question: Q9
+Which are value types in C#?
+Marks: 5
+
+Answers:
+   1. int
+   2. string
+   3. double
+   4. class
+
+Added: 3/5/2026 6:25:05 PM
+=================================
+
+=================================
+Question: Q19
+Dictionary<TKey, TValue> stores key-value pairs.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:25:05 PM
+=================================
+
+=================================
+Question: Q7
+Which keyword prevents inheritance?
+Marks: 5
+
+Answers:
+   1. static
+   2. sealed
+   3. private
+   4. abstract
+
+Added: 3/5/2026 6:25:05 PM
+=================================
+
+=================================
+Question: Q19
+Dictionary<TKey, TValue> stores key-value pairs.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:27:50 PM
+=================================
+
+=================================
+Question: Q11
+LINQ is used for querying collections.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:27:50 PM
+=================================
+
+=================================
+Question: Q14
+Which keyword defines a constant?
+Marks: 5
+
+Answers:
+   1. const
+   2. readonly
+   3. static
+   4. fixed
+
+Added: 3/5/2026 6:27:50 PM
+=================================
+
+=================================
+Question: Q12
+The 'var' keyword makes a variable dynamically typed.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:27:50 PM
+=================================
+
+=================================
+Question: Q10
+Which are access modifiers?
+Marks: 5
+
+Answers:
+   1. public
+   2. private
+   3. internal
+   4. global
+
+Added: 3/5/2026 6:27:51 PM
+=================================
+
+=================================
+Question: Q19
+Dictionary<TKey, TValue> stores key-value pairs.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:31:04 PM
+=================================
+
+=================================
+Question: Q6
+Which method converts JSON into objects?
+Marks: 5
+
+Answers:
+   1. Serialize
+   2. Deserialize
+   3. Parse
+   4. Convert
+
+Added: 3/5/2026 6:31:04 PM
+=================================
+
+=================================
+Question: Q12
+The 'var' keyword makes a variable dynamically typed.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:31:04 PM
+=================================
+
+=================================
+Question: Q9
+Which are value types in C#?
+Marks: 5
+
+Answers:
+   1. int
+   2. string
+   3. double
+   4. class
+
+Added: 3/5/2026 6:31:04 PM
+=================================
+
+=================================
+Question: Q13
+Which class is used for file writing?
+Marks: 5
+
+Answers:
+   1. StreamReader
+   2. StreamWriter
+   3. FileReader
+   4. ConsoleWriter
+
+Added: 3/5/2026 6:31:04 PM
+=================================
+
+=================================
+Question: Q3
+Interfaces can contain method implementations in modern C#.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 6:35:23 PM
+=================================
+
+=================================
+Question: Q5
+Which collection guarantees unique elements?
+Marks: 5
+
+Answers:
+   1. List<T>
+   2. Dictionary<TKey, TValue>
+   3. HashSet<T>
+   4. Array
+
+Added: 3/5/2026 6:35:23 PM
+=================================
+
+=================================
+Question: Q13
+Which class is used for file writing?
+Marks: 5
+
+Answers:
+   1. StreamReader
+   2. StreamWriter
+   3. FileReader
+   4. ConsoleWriter
+
+Added: 3/5/2026 6:35:23 PM
+=================================
+
+=================================
+Question: Q17
+Which operator checks equality?
+Marks: 5
+
+Answers:
+   1. =
+   2. ==
+   3. !=
+   4. <>
+
+Added: 3/5/2026 6:35:23 PM
+=================================
+
+=================================
+Question: Q14
+Which keyword defines a constant?
+Marks: 5
+
+Answers:
+   1. const
+   2. readonly
+   3. static
+   4. fixed
+
+Added: 3/5/2026 6:35:23 PM
+=================================
+
+=================================
+Question: Q6
+Which method converts JSON into objects?
+Marks: 5
+
+Answers:
+   1. Serialize
+   2. Deserialize
+   3. Parse
+   4. Convert
+
+Added: 3/5/2026 7:00:44 PM
+=================================
+
+=================================
+Question: Q18
+Which are loop types in C#?
+Marks: 5
+
+Answers:
+   1. for
+   2. foreach
+   3. while
+   4. repeat
+
+Added: 3/5/2026 7:00:44 PM
+=================================
+
+=================================
+Question: Q11
+LINQ is used for querying collections.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 7:00:44 PM
+=================================
+
+=================================
+Question: Q1
+C# supports object-oriented programming.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/5/2026 7:00:44 PM
+=================================
+
+=================================
+Question: Q4
+Which keyword is used to inherit a class in C#?
+Marks: 5
+
+Answers:
+   1. extends
+   2. :
+   3. inherits
+   4. implements
+
+Added: 3/5/2026 7:00:44 PM
+=================================
+
+=================================
+Question: Q9
+Which are value types in C#?
+Marks: 5
+
+Answers:
+   1. int
+   2. string
+   3. double
+   4. class
+
+Added: 3/6/2026 2:51:10 PM
+=================================
+
+=================================
+Question: Q8
+Which are OOP principles?
+Marks: 5
+
+Answers:
+   1. Encapsulation
+   2. Abstraction
+   3. Compilation
+   4. Polymorphism
+
+Added: 3/6/2026 2:51:10 PM
+=================================
+
+=================================
+Question: Q6
+Which method converts JSON into objects?
+Marks: 5
+
+Answers:
+   1. Serialize
+   2. Deserialize
+   3. Parse
+   4. Convert
+
+Added: 3/6/2026 2:51:10 PM
+=================================
+
+=================================
+Question: Q17
+Which operator checks equality?
+Marks: 5
+
+Answers:
+   1. =
+   2. ==
+   3. !=
+   4. <>
+
+Added: 3/6/2026 2:51:10 PM
+=================================
+
+=================================
+Question: Q4
+Which keyword is used to inherit a class in C#?
+Marks: 5
+
+Answers:
+   1. extends
+   2. :
+   3. inherits
+   4. implements
+
+Added: 3/6/2026 2:51:10 PM
+=================================
+
+=================================
+Question: Q20
+Which feature allows method overriding?
+Marks: 5
+
+Answers:
+   1. virtual
+   2. static
+   3. sealed
+   4. const
+
+Added: 3/6/2026 2:53:51 PM
+=================================
+
+=================================
+Question: Q5
+Which collection guarantees unique elements?
+Marks: 5
+
+Answers:
+   1. List<T>
+   2. Dictionary<TKey, TValue>
+   3. HashSet<T>
+   4. Array
+
+Added: 3/6/2026 2:53:51 PM
+=================================
+
+=================================
+Question: Q14
+Which keyword defines a constant?
+Marks: 5
+
+Answers:
+   1. const
+   2. readonly
+   3. static
+   4. fixed
+
+Added: 3/6/2026 2:53:51 PM
+=================================
+
+=================================
+Question: Q6
+Which method converts JSON into objects?
+Marks: 5
+
+Answers:
+   1. Serialize
+   2. Deserialize
+   3. Parse
+   4. Convert
+
+Added: 3/6/2026 2:53:51 PM
+=================================
+
+=================================
+Question: Q1
+C# supports object-oriented programming.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/6/2026 2:53:51 PM
+=================================
+
+=================================
+Question: Q1
+C# supports object-oriented programming.
+Marks: 5
+
+Answers:
+   1. True
+   2. False
+
+Added: 3/6/2026 3:14:41 PM
+=================================
+
+=================================
+Question: Q13
+Which class is used for file writing?
+Marks: 5
+
+Answers:
+   1. StreamReader
+   2. StreamWriter
+   3. FileReader
+   4. ConsoleWriter
+
+Added: 3/6/2026 3:14:41 PM
+=================================
+
+=================================
+Question: Q14
+Which keyword defines a constant?
+Marks: 5
+
+Answers:
+   1. const
+   2. readonly
+   3. static
+   4. fixed
+
+Added: 3/6/2026 3:14:41 PM
+=================================
+
+=================================
+Question: Q10
+Which are access modifiers?
+Marks: 5
+
+Answers:
+   1. public
+   2. private
+   3. internal
+   4. global
+
+Added: 3/6/2026 3:14:41 PM
+=================================
+
+=================================
+Question: Q8
+Which are OOP principles?
+Marks: 5
+
+Answers:
+   1. Encapsulation
+   2. Abstraction
+   3. Compilation
+   4. Polymorphism
+
+Added: 3/6/2026 3:14:41 PM
+=================================
+

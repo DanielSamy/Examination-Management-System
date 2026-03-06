@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="D07.ClsAnswer" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAQEgAAAAAAAAAAAAIAAAAAACAAAAAA=</HashCode>
+      <FileName>ClsAnswer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.44" Collapsed="true" />
+  </Class>
+  <Class Name="D07.ClsAnswerList">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <AssociationLine Name="_answers" Type="System.Collections.Generic.List&lt;T&gt;">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.21" Y="-1.21" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAACQQAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsAnswerList.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_answers" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="D07.Questions.ClsQuestion">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAEgAADAQAAAAAAAIAAQAQAAAAAAAA=</HashCode>
+      <FileName>Questions\ClsQuestion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Answers" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="D07.Questions.ClsTrueFalseQuestion">
+    <Position X="1.25" Y="4.25" Width="1.75" />
+    <AssociationLine Name="_correct" Type="D07.ClsAnswer" ManuallyRouted="true">
+      <Path>
+        <Point X="2.531" Y="5.867" />
+        <Point X="2.531" Y="6.718" />
+        <Point X="2.959" Y="6.718" />
+        <Point X="2.959" Y="7.344" />
+        <Point X="4.75" Y="7.344" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Questions\ClsTrueFalseQuestion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_correct" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="D07.Questions.ClsChooseOneQuestion">
+    <Position X="3.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Questions\ClsChooseOneQuestion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_correct" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="D07.Questions.ClsChooseAllQuestion">
+    <Position X="6" Y="4.25" Width="2" />
+    <AssociationLine Name="_correctAnswers" Type="System.Collections.Generic.List&lt;T&gt;" ManuallyRouted="true">
+      <Path>
+        <Point X="7" Y="5.867" />
+        <Point X="7" Y="9.421" />
+        <Point X="1.453" Y="9.421" />
+        <Point X="1.453" Y="8" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.21" Y="0.69" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAQAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Questions\ClsChooseAllQuestion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_correctAnswers" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="D07.ClsQuestionList">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsQuestionList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D07.Exams.ClsExam">
+    <Position X="11" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICAAAQQAIAAAQAAAAAAAAAGAAAgAAAAERg=</HashCode>
+      <FileName>Exams\ClsExam.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Mode" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="D07.Exams.ClsPracticeExam">
+    <Position X="10.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAEAAAAAAAAAAAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>Exams\ClsPracticeExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D07.Exams.ClsFinalExam">
+    <Position X="12.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAEAAAAAAAAAAAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>Exams\ClsFinalExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D07.ClsSubject">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAgAAAEAAAAwAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>ClsSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D07.ClsExamEventArgs">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsExamEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D07.ClsStudent">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAQAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D07.DTOs.AnswerDto">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>DTOs\AnswerDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D07.DTOs.QuestionDto">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAAAAABAAAAAAAAAAAAQQQAAAAIAAA=</HashCode>
+      <FileName>DTOs\QuestionDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D07.DTOs.QuestionLoader">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAABAE=</HashCode>
+      <FileName>DTOs\QuestionLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D07.InputHelper">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>InputHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D07.Repository&lt;T&gt;">
+    <Position X="13" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQBAQAABAAAAAAAgCAAAAAAAA=</HashCode>
+      <FileName>Repository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.Generic.List&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Collections.Generic.List&lt;T&gt;.Enumerator" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+    <Lollipop Position="0.79" />
+  </Class>
+  <Interface Name="D07.Exams.IExamBehavior">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAQg=</HashCode>
+      <FileName>Exams\IExamBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="D07.Exams.EnExamMode">
+    <Position X="8.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAQAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exams\ClsExam.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

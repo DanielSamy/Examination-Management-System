@@ -1,0 +1,15 @@
+D:\Courses\ITI\C#\Day 7\lab\D07\bin\Debug\net10.0\D07.exe
+D:\Courses\ITI\C#\Day 7\lab\D07\bin\Debug\net10.0\D07.deps.json
+D:\Courses\ITI\C#\Day 7\lab\D07\bin\Debug\net10.0\D07.runtimeconfig.json
+D:\Courses\ITI\C#\Day 7\lab\D07\bin\Debug\net10.0\D07.dll
+D:\Courses\ITI\C#\Day 7\lab\D07\bin\Debug\net10.0\D07.pdb
+D:\Courses\ITI\C#\Day 7\lab\D07\obj\Debug\net10.0\D07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI\C#\Day 7\lab\D07\obj\Debug\net10.0\D07.AssemblyInfoInputs.cache
+D:\Courses\ITI\C#\Day 7\lab\D07\obj\Debug\net10.0\D07.AssemblyInfo.cs
+D:\Courses\ITI\C#\Day 7\lab\D07\obj\Debug\net10.0\D07.csproj.CoreCompileInputs.cache
+D:\Courses\ITI\C#\Day 7\lab\D07\obj\Debug\net10.0\D07.dll
+D:\Courses\ITI\C#\Day 7\lab\D07\obj\Debug\net10.0\refint\D07.dll
+D:\Courses\ITI\C#\Day 7\lab\D07\obj\Debug\net10.0\D07.pdb
+D:\Courses\ITI\C#\Day 7\lab\D07\obj\Debug\net10.0\D07.genruntimeconfig.cache
+D:\Courses\ITI\C#\Day 7\lab\D07\obj\Debug\net10.0\ref\D07.dll
+D:\Courses\ITI\C#\Day 7\lab\D07\bin\Debug\net10.0\questions.json
